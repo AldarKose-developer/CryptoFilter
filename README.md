@@ -12,7 +12,7 @@ cd pycoingecko
 python3 setup.py install
 ```
 ### Change path in test.py file
-You should change this part of test.py file (3 line). Replace path with path where 'src' folder located in your system.
+You should change path in test.py file (3 line). Replace path with path where folder with project located in your system.
 ```
 sys.path.append('MYPATH')
 ```
