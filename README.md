@@ -24,11 +24,11 @@ cd test
 test.py
 ```
 ## Examples
-You should input number of cryptocurrencies that you want to see e.g 5
+You should input number of cryptocurrencies that you want to see e.g 5.
+Then it will return you list of top N cryptocurrencies
 ### For example
 ```
-Enter how many cryptocurrencies you want to see: 
-5
+Enter how many cryptocurrencies you want to see: 5
 ['Bitcoin', 'Ethereum', 'Cardano', 'Tether', 'Binance Coin']
 ```
 ## License
